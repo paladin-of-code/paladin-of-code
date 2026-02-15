@@ -1,6 +1,7 @@
 ## ⚔️ Paladin Of Code
 
-AI-driven Game & Mobile Developer in progress.
+Software Engineering student focused on developing intelligent, AI-driven digital experiences for games and mobile platforms.
+
 
 ---
 
