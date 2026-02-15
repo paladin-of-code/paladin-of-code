@@ -1,7 +1,6 @@
-## ⚔️ Paladin Of Code
+# ⚔️ Paladin Of Code
 
-Software Engineering student focused on developing intelligent, AI-driven digital experiences for games and mobile platforms.
-
+Software Engineering student focused on building intelligent, AI-driven digital experiences for games and mobile platforms.
 
 ---
 
@@ -22,9 +21,10 @@ Software Engineering student focused on developing intelligent, AI-driven digita
 ---
 
 ## 🚀 Current Mission
-Building intelligent and adaptive digital experiences that merge gameplay, AI and user experience.
+Building adaptive and intelligent gameplay systems powered by AI.
 
 ---
 
 ## 🎯 Vision
 Create games and applications that think, adapt and evolve.
+
